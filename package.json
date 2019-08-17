@@ -1,0 +1,13 @@
+{
+    "name": "web-scraper",
+    "version": "1.0.0",
+    "description": "Scrape Websites",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Arpit Gupta",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
+}
